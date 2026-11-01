@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+output/
+work/
+photos/
+cat-profile.md
+dist/
+.cat-photo-stickers/
+表情包结果*/
+source-map.json
+catalog.json
+manifest.json

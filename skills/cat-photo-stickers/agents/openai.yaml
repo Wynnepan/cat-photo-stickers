@@ -1,0 +1,4 @@
+interface:
+  display_name: "猫咪原照表情包"
+  short_description: "将文件夹中的猫咪照片逐张裁成正方形，按神态配字并叠入照片内"
+  default_prompt: "使用 $cat-photo-stickers，把这个文件夹的 16 张猫照逐张做成正方形表情包，文字放在照片里面，避开猫脸。"
